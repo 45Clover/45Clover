@@ -11,4 +11,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,py,bots)](https://skillicons.dev)
 
-![Screenshot 2024-08-11 00 53 28](https://github.com/user-attachments/assets/bf14611a-d5dc-4765-83ec-e5f4ceeb46ca)
+![new](https://github.com/user-attachments/assets/989995c3-92cc-4e43-b036-901f07507264)
+
