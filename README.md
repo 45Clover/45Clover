@@ -1,15 +1,63 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=45Clover.45Clover" />
+<!-- Cyberpunk Visitor Badge -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=45Clover.45Clover&color=9D00FF&style=flat-square" alt="visitors" />
+</p>
 
+<!-- Cyberpunk Typing Banner -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Stalker!+⚡;+I'm+45Clover!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=600&height=70&lines=👁️+ACCESS+GRANTED...;Welcome+to+the+Grid%2C+Runner.;I+am+45Clover...+⚡" />
 </h1>
 
-<h3 align="center">I'm an amateur developer from Canada 🇨🇦</h3>
+<!-- Cyberpunk Subtitle -->
+<h3 align="center" style="color:#ff00ff">
+  🧠💻 Amateur Dev | Netrunner | Based in Canada 🍁
+</h3>
 
+---
 
+<!-- Glitchy Bio -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QzktJ3rEebcvmc8bpE/giphy.gif" width="300" alt="cyberpunk gif">
+</p>
 
+<p align="center">
+  <code><b style="color:#00FFFF">while(alive)</b> { <b style="color:#FF00FF">code();</b> }</code>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,py,bots)](https://skillicons.dev)
+---
 
-![new](https://github.com/user-attachments/assets/989995c3-92cc-4e43-b036-901f07507264)
+<!-- Cyberpunk Skill Icons -->
+<h3 align="center">🧰 Cyber Skills:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,py,github,git,vscode,bots,regex&theme=dark" />
+  </a>
+</p>
+
+<!-- Cool Divider -->
+<hr style="border: 1px dashed #00ffff;">
+
+<!-- Terminal Quote -->
+<pre align="center"><code style="font-size:16px; color:#FF00FF">
+┌──(45Clover㉿nexus-terminal)-[~/void_hub]
+└─$ echo "Always debugging the matrix..."
+</code></pre>
+
+---
+
+<!-- Optional Links or Contacts -->
+<p align="center">
+  <a href="arasaka@email.com">
+    <img src="https://img.shields.io/badge/Email-%23FF007F?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/45Clover">
+    <img src="https://img.shields.io/badge/GitHub-%2300CED1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Cyberpunk GIF Footer -->
+<p align="center">
+  <img src="https://media.giphy.com/media/OPU6wzx8JrHna/giphy.gif" width="250px" alt="glitch footer gif">
+</p>
+
 
