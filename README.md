@@ -40,7 +40,7 @@
 <!-- Terminal Quote -->
 <pre align="center"><code style="font-size:16px; color:#FF00FF">
 ┌──(45Clover㉿nexus-terminal)-[~/void_hub]
-└─$ echo "Always debugging the matrix..."
+└─$ echo "Always debugging..."
 </code></pre>
 
 ---
