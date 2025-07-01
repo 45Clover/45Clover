@@ -57,7 +57,7 @@
 
 <!-- Cyberpunk GIF Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/OPU6wzx8JrHna/giphy.gif" width="250px" alt="glitch footer gif">
+  <img src="https://tenor.com/en-GB/view/cyberpunk-edge-runners-cyberpunk2077-david-gif-25909290" width="250px" alt="glitch footer gif">
 </p>
 
 
