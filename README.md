@@ -17,7 +17,7 @@
 
 <!-- Glitchy Bio -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QzktJ3rEebcvmc8bpE/giphy.gif" width="300" alt="cyberpunk gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWE4a240b3N0a2J4bjZyOGhsZHNnZm9wODlrbWtibWNtc2VqeGh4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y0XAoHQPmv4CQ/giphy.gif" width="300" alt="cyberpunk gif">
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 
 <!-- Cyberpunk GIF Footer -->
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/cyberpunk-edge-runners-cyberpunk2077-david-gif-25909290" width="250px" alt="glitch footer gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d21wajA2YzRlM3lsOTlzN2hhbDJpamp5ZGYzZTdpbmpiejZkdjlwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ez7rofV94EpriTjQpq/giphy.gif" width="250px" alt="glitch footer gif">
 </p>
 
 
