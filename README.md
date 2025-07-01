@@ -5,7 +5,7 @@
 
 <!-- Cyberpunk Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=600&height=70&lines=👁️+ACCESS+GRANTED...;Welcome+to+the+Grid%2C+Runner.;I+am+45Clover...+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=600&height=70&lines=👁️+ACCESS+GRANTED...;Welcome+to+the+Grid%2C+Runner.;I+am+lebo...+⚡" />
 </h1>
 
 <!-- Cyberpunk Subtitle -->
