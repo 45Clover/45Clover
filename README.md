@@ -10,7 +10,7 @@
 
 <!-- Cyberpunk Subtitle -->
 <h3 align="center" style="color:#ff00ff">
-  🧠💻 Amateur Dev | Netrunner | Based in Canada 🍁
+  🧠💻 Amateur Dev | Stats Major | Based in Canada 🍁
 </h3>
 
 ---
